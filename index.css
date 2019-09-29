@@ -1,0 +1,26 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #222f3e;
+}
+
+#myProgress {
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px grey;
+    text-align: center;
+    height: 40px;
+  }
+  
+  #myBar {
+    width: 0%;
+    height: 40px;
+    background-color: #2ecc71;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  #outputen1 {
+      /* margin: auto; */
+      text-align: center;
+  }
